@@ -1,5 +1,5 @@
 # DW-quality-check
-A testing framework for datawarehouses for checking  and verfying data quality
+A testing framework for datawarehouses to check  and verfy data quality
 
 
 ## Method:
@@ -9,12 +9,12 @@ using python (frameworks, libraries, and adapters) to verify data quality in a d
 * Populate with tables: DimCustomer, DimMonth, FactBilling. using  (star-schema)
 * Install  python adapter  for Postgresql: python3 -m pip install psycopg2
 * confirm db connect with: python3 dbconnect.py
-* * view all tests to be carried out  in:  mytests.py
+* view all tests to be carried out  in:  mytests.py
 * create script to generate data quality report: generate-data-quality-report.py
 
   
 
-## ToDo
+## ToDo 
 * Checking for  Null values
 * Checking Duplicate values
 * Check Min Max
