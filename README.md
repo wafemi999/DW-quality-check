@@ -23,5 +23,5 @@ using python (frameworks, libraries, and adapters) to verify data quality in a d
 
 ## Output: 
 
-![data quality report](https://github.com/wafemi999/DW-quality-check/blob/main/output-test.JPG)
+![data quality report](output-test.JPG)
 
