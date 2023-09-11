@@ -21,7 +21,7 @@ using python (frameworks, libraries, and adapters) to verify data quality in a d
 * Checking Invalid values
 * Generating a report on data quality of the fact and dimension tables
 
-## Output:
+## Output: 
 
-![data quality report](output-test.jpeg)
+![data quality report](https://github.com/wafemi999/DW-quality-check/blob/main/output-test.JPG)
 
