@@ -1,5 +1,5 @@
 # DW-quality-check
-A testing framework for datawarehouses to check  and verfy data quality
+A testing framework for datawarehouses to check  and verfy data quality, see steps below
 
 
 ## Method:
